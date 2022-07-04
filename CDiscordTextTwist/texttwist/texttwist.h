@@ -1,0 +1,15 @@
+#ifndef TEXTTWIST_H
+#define TEXTTWIST_H
+
+
+
+
+#ifdef TEXTTWIST_IMPLEMENTATION
+
+
+
+#endif /* TEXTTWIST_IMPLEMENTATION */
+
+
+
+#endif /* TEXTTWIST_H */
